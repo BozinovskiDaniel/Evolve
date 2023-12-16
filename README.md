@@ -1,7 +1,5 @@
 # Evolve
 
-![Header Image](put_your_header_image_link_here)
-
 The journey towards fitness transformation doesn't happen overnight. With _Evolve_, you don't have to tackle it alone. Our app aids you in tracking your gym exercises, making it easier for you to watch your progress as you advance through your fitness regimen. 
 
 ## Features
@@ -38,7 +36,8 @@ example commands to run the app
 
 ## Architecture
 
-Briefly explain the software architecture the app uses.
+Frontend: React Native + TypeScript
+Backend: TBD
 
 ## Contribution
 
@@ -48,11 +47,6 @@ Explain how other developers can contribute to the project.
 
 If you encounter any problems or have suggestions, feel free to open an issue.
 
-## License
-
-Include licensing information.
-
-For more details, please refer to the [LICENSE] insert-link-here.
 
 ## Roadmap
 
@@ -62,9 +56,5 @@ By using Evolve, your path to fitness is smoother and more manageable. Start you
 
 ## Developers
 
-List of developers involved in the project.
-
-## Acknowledgments
-
-Don't forget to acknowledge those who contributed!
+- @BozinovskiDaniel
 
