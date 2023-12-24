@@ -2,6 +2,16 @@
 
 The journey towards fitness transformation doesn't happen overnight. With _Evolve_, you don't have to tackle it alone. Our app aids you in tracking your gym exercises, making it easier for you to watch your progress as you advance through your fitness regimen. 
 
+## Checklist
+
+- [ ] Initialise base application
+- [ ] Create an Exercises List Page
+- [ ] Create a Start Workout Page
+- [ ] Create a History page
+- [ ] Create a Profile page
+- [ ] Deploy to App Store
+
+
 ## Features
 
 - **Exercise Tracking:** Evolve allows you to monitor your exercises, noting sets, reps, and weight to ensure you stay on track.
